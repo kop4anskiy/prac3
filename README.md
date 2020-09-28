@@ -25,7 +25,7 @@
 
 ![](delete cclean.gif)
 
-![](https://raw.githubusercontent.com/kop4anskiy/prac3/master/7.png)
+![hippo](https://media.giphy.com/media/8etkA5Wkzpqt11Obas/giphy.gif)
 
 **vot что выдал анализ системы, ничего интересного**
 
@@ -33,7 +33,7 @@
 
 **переходим к рстудио, спасибо рутракеру <3, удалил я видосики в общем-то, ну он их и восстановил, спс большое**
 
-![hippo](r-studio (1).gif)
+![hippo](https://media.giphy.com/media/b5R0SEjggpY5qn6UOY/giphy.gif)
 
 **Затираем и удаляем приложение для создания 3д графики и пытаемся восстановить0**
 
