@@ -29,6 +29,8 @@
 
 **vot что выдал анализ системы, ничего интересного**
 
+![](https://media.giphy.com/media/q6FNwiGIq11y8BhclL/giphy.gif)
+
 ![](https://raw.githubusercontent.com/kop4anskiy/prac3/master/8.png)
 
 **переходим к рстудио, спасибо рутракеру <3, удалил я видосики в общем-то, ну он их и восстановил, спс большое**
