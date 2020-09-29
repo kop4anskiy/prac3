@@ -23,9 +23,9 @@
 
 **удалил файл и потом продублиррвал я фулл папку на всякий, вот что выдал мне сислинер**
 
-![](delete cclean.gif)
-
 ![hippo](https://media.giphy.com/media/8etkA5Wkzpqt11Obas/giphy.gif)
+
+![](https://raw.githubusercontent.com/kop4anskiy/prac3/master/7.png)
 
 **vot что выдал анализ системы, ничего интересного**
 
